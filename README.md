@@ -9,10 +9,10 @@ Acá encontrarán el material necesario para realizar el workshop de "Docker + K
 ## **Agenda**
 - [Setup de ambiente de trabajo](https://github.com/ckus/docker-kubernetes-workshop/tree/master/Setup/SetupAmbiente.md)
 - Repaso de Docker
-- Repaso de ContenedoresContainers Fundamentals
+- Repaso de Contenedores
 - Creación de DockerFile para tu aplicación
 - Entendiendo, administrando y securizando tus Imágenes
-- Ejecutar, ConFigurando y operando tus ContenedoresRun, Config and operate Containers
+- Ejecutar, ConFigurando y operando tus Contenedores
 - Docker y las redes
 - Depurando en Docker
 - Docker Compose

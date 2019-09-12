@@ -13,11 +13,12 @@ git clone  https://github.com/ckus/docker-kubernetes-workshop.git
 docker ps
 docker images
 ```
-4. Instalar Kubernetes localmente con [Minikube](https://github.com/kubernetes/minikube) (Docker viene con la posiblidad de crear un cluster de Kubernetes, pero no tiene todas las capacidades de K8s, es convenientes utilizarlo para testeos de aplicaciones simples)
-5. Testear Kubernetes
+4. Tener o crearse una cuenta en [Docker Hub](https://hub.docker.com) para poder subir las imágenes
+5. Instalar Kubernetes localmente con [Minikube](https://github.com/kubernetes/minikube) (Docker viene con la posiblidad de crear un cluster de Kubernetes, pero no tiene todas las capacidades de K8s, es convenientes utilizarlo para testeos de aplicaciones simples)
+6. Testear Kubernetes
    Abrir un ventana de Terminal (commando prompt o powershell en windows)
 ```
 kubectl get nodes
 kubectl get namespces
 ```
-6. Ya somos felices con Docker y Kubernetes en nuestro computador, ahora a jugar!  
+7. Ya somos felices con Docker y Kubernetes en nuestro computador, ahora a jugar!  💪🏼💪🏼
